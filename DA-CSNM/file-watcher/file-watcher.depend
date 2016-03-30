@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458537881 source:e:\dropbox\projects\trong-dut-projects\da-csnm\file-watcher\main.cpp
+	<windows.h>
+	<Winbase.h>
+	<stdlib.h>
+	<stdio.h>
+	<tchar.h>
+
+1458574911 source:e:\dropbox\projects\trong-dut-projects\da-csnm\file-watcher\trong.cpp
+	<windows.h>
+	<iostream>
+

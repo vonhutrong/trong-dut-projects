@@ -1,0 +1,9 @@
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\bin\Debug\FolderWatcher.exe
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\bin\Debug\FolderWatcher.pdb
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.csprojResolveAssemblyReference.cache
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.FormWatcher.resources
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.Properties.Resources.resources
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.csproj.GenerateResource.Cache
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.exe
+E:\Dropbox\projects\trong-dut-projects\DA-CSNM\FolderWatcher\obj\Debug\FolderWatcher.pdb
